@@ -5,7 +5,8 @@
 <a href="https://linkedin.com/in/linkedin.com/in/sathira-abayamal-5a596a228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sathira-abayamal-5a596a228" height="30" width="40" /></a>
 </p>
 
-<img src="https://www.google.com/search?q=animated%20coding%20gif%20for%20github&udm=2&rlz=1C1GCEU_enLK1137LK1137&hl=en&sa=X&ved=0CBsQtI8BKABqFwoTCOCw19-1s4oDFQAAAAAdAAAAABAH&biw=1280&bih=559&dpr=1.5#imgrc=kfpqCuXmfeFi9M&imgdii=N8Ehn8UbrUx_CM" width="300" height="200" alt="Animated coding GIF">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Animated coding GIF">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
