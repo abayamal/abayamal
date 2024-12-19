@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathira abayamal</h1>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Animated coding GIF">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abayamal&show_icons=true&locale=en" alt="abayamal" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abayamal&show_icons=true&locale=en&layout=compact" alt="abayamal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abayamal&show_icons=true&locale=en" alt="abayamal" /></p>
+
