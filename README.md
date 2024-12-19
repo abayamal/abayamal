@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathira abayamal</h1>
 <div style="display: flex; align-items: center; gap: 20px; justify-content: space-between; width: 100%;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abayamal&show_icons=true&locale=en" alt="abayamal stats" style="max-width: 45%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abayamal&show_icons=true&locale=en" alt="abayamal stats" style="max-width: 10%; height: auto;" />
   
   <!-- Animated Coding GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding GIF" style="max-width: 10%; height: auto;" />
