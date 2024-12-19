@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abayamal&show_icons=true&locale=en" alt="abayamal stats" style="max-width: 45%; height: auto;" />
   
   <!-- Animated Coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding GIF" style="max-width: 30%; height: auto;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding GIF" style="max-width: 10%; height: auto;" />
 </div>
 
 
