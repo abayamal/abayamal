@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sathira abayamal</h1>
-<div style="display: flex; align-items: center; gap: 20px;justify-content:space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=abayamal&show_icons=true&locale=en" alt="abayamal"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Animated coding GIF">
+<div style="display: flex; align-items: center; gap: 20px; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abayamal&show_icons=true&locale=en" alt="abayamal" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Animated coding GIF" />
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
